@@ -4,6 +4,7 @@ body {
     width: 980px;
     height: 450px;
     background-color: #F4F4F4;
+    overflow: hidden;
 }
 
 .back {
