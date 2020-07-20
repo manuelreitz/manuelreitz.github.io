@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 980px;
+    height: 450px;
+    background-color: #F4F4F4;
+}
+
+.back {
+  background-image: url("media/back.png");
+  width: 980px;
+  height: 450px;
+  transform-style: preserve-3d;
+  transform: perspective(1000px);
+}
+
+.front {
+  background-image: url("media/front.png");
+  width: 980px;
+  height: 450px;
+  transform: translateZ(50px);
+}
+

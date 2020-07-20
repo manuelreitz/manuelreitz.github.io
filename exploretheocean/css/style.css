@@ -134,7 +134,7 @@ p {
     line-height: 1.7em;
 }
 
-p .pintro {
+p.pintro {
     font-size: 1.28em;
     font-weight: 600;
     letter-spacing: 0.06em;
@@ -148,7 +148,7 @@ p .pintro {
     position: absolute;
     font-size: 1.28em;
     font-style: italic;
-    font-weight: 900;
+    font-weight: 600;
     margin-left: 135px;
     line-height: 1em;
     margin-top: 10px;
